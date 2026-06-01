@@ -195,7 +195,7 @@ This demonstrates one of the most powerful concepts in investing:
 ---
 
 # Understanding the Advantage Graph
-![Advantage Graph](Images/Wealth_accumulation_advantage.png)
+![Advantage Graph](images/Wealth_accumulation_advantage.png)
 The fourth graph shows:
 
 ```text
