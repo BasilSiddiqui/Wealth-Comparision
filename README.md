@@ -4,11 +4,11 @@
 
 This project started from a simple argument between my friend and I:
 
-### Friend 1 (Stocks Only)
+### Friend (Stocks Only)
 
 > "Why buy a property? I'll rent forever and invest everything into stocks. If I can achieve 13% annual returns, I'll end up richer."
 
-### Friend 2 (Property + Stocks)
+### Me (Property + Stocks)
 
 > "I'd rather buy a property early, stop paying rent, build equity through a mortgage, and continue investing in stocks. Even if my stock returns are lower (10%), I think owning an appreciating asset will outperform in the long run."
 
