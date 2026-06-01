@@ -105,7 +105,7 @@ Stocks
 # Results
 
 ## First 10 Years
-![10 years](Images/Wealth_accumulation_10_years.png)
+![10 years](images/Wealth_accumulation_10_years.png)
 ### Observation
 
 The Property Strategy immediately pulls ahead.
@@ -131,7 +131,7 @@ Property strategy finishes the first decade significantly ahead.
 ---
 
 ## First 20 Years
-![20 years](Images/Wealth_accumulation_20_years.png)
+![20 years](images/Wealth_accumulation_20_years.png)
 ### Observation
 
 The gap becomes even larger.
@@ -158,7 +158,7 @@ This is represented by the red marker on the graph.
 ---
 
 ## First 30 Years
-![30 years](Images/Wealth_accumulation_30_years.png)
+![30 years](images/Wealth_accumulation_30_years.png)
 ### Observation
 
 A surprising reversal occurs.
@@ -195,7 +195,7 @@ This demonstrates one of the most powerful concepts in investing:
 ---
 
 # Understanding the Advantage Graph
-
+![Advantage Graph](Images/Wealth_accumulation_advantage.png)
 The fourth graph shows:
 
 ```text
