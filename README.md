@@ -54,8 +54,8 @@ The investor:
 
 ### Phase 1
 
-* Invests AED 5,000/month into stocks
 * Saves AED 5,000/month toward a property down payment
+* Rents until the mortgage is taken
 
 ### Phase 2
 
@@ -63,7 +63,7 @@ After reaching the down payment:
 
 * Purchases a property
 * Takes a mortgage
-* Continues investing AED 5,000/month into stocks
+* Starts investing AED 5,000/month into stocks
 * Builds property equity through mortgage payments
 * Benefits from property appreciation
 
@@ -134,7 +134,7 @@ Property strategy finishes the first decade significantly ahead.
 ![20 years](images/Wealth_accumulation_20_years.png)
 ### Observation
 
-The gap becomes even larger.
+The gap becomes smaller after the red dot.
 
 This is where the Property Strategy reaches its maximum advantage.
 
@@ -218,7 +218,7 @@ The larger the green area, the greater the advantage of owning property.
 
 ---
 
-### Red Area
+### Blue Area
 
 Stocks-only strategy is ahead.
 
@@ -226,7 +226,7 @@ Stocks-only strategy is ahead.
 Difference < 0
 ```
 
-The larger the red area, the greater the advantage of achieving higher investment returns.
+The larger the Blue area, the greater the advantage of achieving higher investment returns.
 
 ---
 
