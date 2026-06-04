@@ -124,6 +124,8 @@ A AED 100,000 down payment controls a AED 500,000 asset.
 
 This creates wealth much faster during the early years.
 
+***Note: The grey line is when the curves meet.***
+
 ### Result
 
 Property strategy finishes the first decade significantly ahead.
